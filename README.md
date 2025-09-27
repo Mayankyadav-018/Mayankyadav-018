@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mayank</h1>
 <h3 align="center">2nd Year Engineering Student</h3>
 
-- 🌱 **Passionate about Cloud Computing, Web Development, and Open Source | Proficient in C, C++, Python**
+- 🌱 **Passionate about Cloud Computing, Web Development, and an Open Source Contributor | Proficient in C, C++, Python**
 
 - 📫 How to reach me **mayankyadav18101@gmail.com**
 
